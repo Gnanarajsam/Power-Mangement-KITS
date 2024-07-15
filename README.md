@@ -22,8 +22,6 @@ Tituts Sir
 
 1. **CPU Metrics Monitoring**: The tool offers real-time monitoring of CPU utilization, allowing users to see usage percentages for each individual core. Additionally, it visualizes C-states, which represent various levels of CPU idle modes, helping to identify opportunities for energy savings.
 
-   ![CPU Metric Plots](images/cpu.png)
-   <div align="center">CPU Metric Plots</div>
 
 2. **Memory Usage Insights**: The application tracks system RAM usage, providing information on memory currently in use versus available memory. This helps users pinpoint memory-intensive applications and assess potential bottlenecks. Disk usage statistics are also monitored for better data management.
 
@@ -32,8 +30,6 @@ Tituts Sir
 
 3. **Temperature and Power Mode Switching**: The tool continuously monitors the temperatures of critical components (CPU, GPU, etc.) to ensure they remain within safe operational limits. Users can switch between various power modes (performance, balanced, power-saving) based on their current needs, optimizing power consumption effectively.
 
-   ![Temperature Plots](images/temp.png)
-   <div align="center">Temperature Plots</div>
 
 4. **Battery and NIC Power Consumption**: Detailed battery statistics (percentage, time remaining, power state) allow users to manage battery usage more effectively. Monitoring NIC power consumption provides insights into the energy impact of network activities.
 
@@ -42,8 +38,6 @@ Tituts Sir
 
 5. **GPU Metrics Tracking**: The tool also tracks various GPU metrics, including power consumption, supply voltage, and temperature, giving users insights into the power efficiency of their graphics-related tasks.
 
-   ![GPU Metric Plots](images/gpu.png)
-   <div align="center">GPU Metric Plots</div>
 
 ## Docker Integration
 
