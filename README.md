@@ -1,18 +1,19 @@
-# Power Management Tool
+# Power Management Tely
 
-In the era of 5G and edge computing, the deployment of devices across various locations has led to a significant increase in power consumption. This rise emphasizes the urgent need for corporations and governments worldwide to implement strategies for achieving net-zero power consumption. Furthermore, with electricity prices on the rise, understanding and managing the total power drawn by systems is becoming increasingly crucial for both economic and environmental reasons.
+The proliferation of devices across several locations in the era of 5G and edge computing has resulted in a notable rise in power consumption. This increase highlights how urgently businesses and governments throughout the world must put plans in place to achieve net-zero power consumption. Furthermore, as the cost of electricity is rising, it is more important than ever to comprehend and manage the overall power taken by systems for both environmental and economic reasons.
 
 ## Project Objectives
 
-This project aims to address the challenges of power management by focusing on the following objectives:
+The following goals will be the main emphasis of this project in order to address the power management challenges:
 
-1. **Research Open-Source Tools**: Identify and evaluate available open-source tools that can be utilized for accurate power measurement.
-2. **Document System Knobs**: Catalog the various configurable parameters within a system that can influence power consumption metrics.
-3. **Telemetry Data Collection**: Gather telemetry data from key components such as the CPU, memory, Network Interface Card (NIC), and Thermal Design Power (TDP).
-4. **Power Utilization Measurement**: Measure and record system power utilization, focusing specifically on CPU, NIC, and TDP based on varying input parameters related to system utilization percentages.
+1. **Research Open-Source Tools**: Find and assess open-source resources that can be used to measure power accurately.
+2. **Document System Knobs**: List all of the system's programmable parameters that can affect metrics related to power usage.
+3. **Collecting Telemetry Data**: Compile information from important parts including the CPU, RAM, Network Interface Card (NIC), and Thermal Design Power (TDP).
+4. **Power Utilization Measurement**: Based on changing input parameters connected to system utilization percentages, measure and record the power consumption of the system, paying particular attention to CPU, NIC, and TDP.
+
 
 ## Team Member
-Gnanaraj Sam
+Gnanaraj Sam J
 
 ## College Mentor
 Tituts Sir
@@ -210,6 +211,7 @@ The Power Management Tool leverages several powerful libraries and tools to pres
 
 ## Conclusion
 
-The Power Management Tool is designed to empower users with real-time insights into system performance and energy consumption. By leveraging detailed monitoring capabilities, users can optimize their systems for efficiency and sustainability. This tool not only aids individual users in managing power consumption but also contributes to broader eco-friendly practices in computing.
+The purpose of the Power Management Tool is to provide users with up-to-date information about energy usage and system performance. Users can maximize the efficiency and sustainability of their systems by utilizing the comprehensive monitoring capabilities. This program supports more widespread environmentally friendly computing practices in addition to helping individual users manage their power usage.
 
-Explore the repository for more detailed information and usage instructions, and start optimizing your system today!
+Check out the repository for usage guidelines and more specific details, then get to work optimizing your system right away!
+
